@@ -156,7 +156,7 @@ _斜体_
 ##### 效果：
 
 ```
-if (YouIdea)
+if (YourIdea)
 {
   printf("You are very handsome\n");
 }
