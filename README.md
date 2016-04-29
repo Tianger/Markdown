@@ -215,23 +215,27 @@ if (YourIdea)
 ------
 ### 3.常用编辑器
 在线编辑器：
-* 作业部落
-> 支持流程图、序列图
+* 作业部落  
+> 支持流程图、序列图  
 > 地址：https://www.zybuluo.com/mdeditor
 
-* 简书
+* 简书  
 > 地址：http://www.jianshu.com/
 
 * 马克飞象 Marxico
-> 内容可以同步到印象笔记中
+> 内容可以同步到印象笔记中  
 > 地址：https://maxiang.io/
 
 离线编辑器：
-* MarkdownPad
+* MarkdownPad  
 > 下载地址： http://markdownpad.com/
 
-* CuteMarkEd
+* CuteMarkEd  
 > 下载地址：http://cloose.github.io/CuteMarkEd
+
+Firefox插件:
+* Markdown Viewer  
+> 下载地址：https://addons.mozilla.org/zh-CN/firefox/addon/markdown-viewer/?src=ss
 
 ------
 ### 4.最后想说的
