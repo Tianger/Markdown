@@ -234,8 +234,8 @@ if (YourIdea)
 > 下载地址：http://cloose.github.io/CuteMarkEd
 
 Firefox插件：  
-* Markdown Viewer      
-> 下载地址： https://addons.mozilla.org/zh-CN/firefox/addon/markdown-viewer/?src=ss
+* Markdown Viewer  
+> 下载地址： https://addons.mozilla.org/zh-CN/firefox/addon/markdown-viewer/?src=ss  
 
 Chrome插件： 
 * Markdown preview
