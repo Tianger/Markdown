@@ -236,7 +236,14 @@ if (YourIdea)
 Firefox插件：  
 * Markdown Viewer    
 > 下载地址： https://addons.mozilla.org/zh-CN/firefox/addon/markdown-viewer/?src=ss
-  
+
+Chrome插件： 
+* Markdown preview:
+> 下载地址：http://www.cnplugins.com/office/markdown-preview/download.html  
+
+* Markdown preview plus:
+> 下载地址：http://www.cnplugins.com/fuzhu/markdown-preview-plus-dzte/download.html
+
 ------
 ### 4.最后想说的
 
